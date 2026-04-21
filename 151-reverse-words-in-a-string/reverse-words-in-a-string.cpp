@@ -30,7 +30,7 @@ public:
             if(ans.length() == 0)
                 ans += word;
             else
-                ans += ' ' + word;
+                ans += " " + word;
         }
 
         return ans;
