@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+-- Write your PostgreSQL query statement below
 SELECT (SELECT DISTINCT salary 
 FROM Employee e
 ORDER BY salary DESC
